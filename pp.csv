@@ -1,0 +1,16 @@
+mpg  cylinders  displacement  horsepower  weight  accelaration  model year  car name,,,,,,,
+18      8          307           130       3504        12           71        Thar,,,,,,,
+15      8          350           165       3693        11.5         70        BMW,,,,,,,
+18      8          318           150       3436        11           72        Jagur,,,,,,,
+17      8          302           140       3449        10.5         70        Jeep,,,,,,,
+14      8          455           225       4425        10           71        Relex Rolls,,,,,,,
+15      8          390           190       3850        8.5          70        maruthi susuki,,,,,,,
+,,,,,,,
+,,,,,,,
+mpg,cylinders,displacement,horsepower,weight,acceleration,model year,car name
+18,8,130,12,3504,12,71,Thar
+15,8,165,11.5,3693,11.5,70,BMW
+18,8,150,11,3436,11,72,Jagur
+17,8,140,10.5,3449,10.5,70,Jeep
+14,8,225,10,4925,10,71, Relex Rolls
+15,8,190,8.4,3850,8.5,70,maruthi susuki
